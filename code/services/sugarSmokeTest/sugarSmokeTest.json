@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,sugar",
+    "logging_enabled": "false",
+    "name": "sugarSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "sugarSmokeTest.js"
+}
