@@ -63,5 +63,6 @@
     "url": "git+https://github.com/andrewplummer/Sugar.git"
   },
   "typings": "sugar.d.ts",
-  "version": "2.0.4"
+  "version": "2.0.4",
+  "image": "https://i.imgur.com/fkMi8lK.png"
 }
